@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178821807194",
+    "project_id": "redland-android",
+    "storage_bucket": "redland-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178821807194:android:5289deaa302535cc546c63",
+        "android_client_info": {
+          "package_name": "com.AlbatrossGameStudio.RedLand_Android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Uza7xG8c9A4cb-2NEf9B957hcG_aCVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
